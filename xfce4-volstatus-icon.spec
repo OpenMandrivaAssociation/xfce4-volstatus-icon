@@ -11,7 +11,6 @@ BuildRequires:	libglib2-devel
 BuildRequires:	dbus-glib-devel
 BuildRequires:	exo-devel
 Obsoletes:	xfce-volstatus-icon
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 This application help safely mount/eject media.
