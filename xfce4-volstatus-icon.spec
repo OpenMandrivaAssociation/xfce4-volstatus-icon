@@ -4,7 +4,7 @@ Version:	0.1.0
 Release:	%mkrel 14
 License:	GPLv2+
 Group:		Graphical desktop/Xfce
-URL:		http://goodies.xfce.org/projects/panel-plugins/xfce4-volstatus-icon
+URL:		https://goodies.xfce.org/projects/panel-plugins/xfce4-volstatus-icon
 Source0:	http://goodies.xfce.org/releases/xfce4-volstatus-icon/%{name}-%{version}.tar.bz2
 BuildRequires:	libxfcegui4-devel >= 4.4.1
 BuildRequires:	libglib2-devel
